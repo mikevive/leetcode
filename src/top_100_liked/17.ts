@@ -1,5 +1,5 @@
-import fs from "fs";
+import fs from 'fs';
 
 fs;
 
-console.log("hello world");
+console.log('hello world');
