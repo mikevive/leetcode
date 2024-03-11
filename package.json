@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "ts-node-dev",
+    "tsc": "tsc",
     "lint": "eslint --ext .js,.ts",
     "format": "prettier --write \"**/*.+(js|ts|json)\""
   },
